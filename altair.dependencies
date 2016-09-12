@@ -1,9 +1,9 @@
 [
   {
-    "remote": "cm",
-    "repository": "CyanogenMod/android_device_samsung_qcom-common",
+    "remote": "altair",
+    "repository": "Altair-Devices/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "revision": "cm-13.0"
+    "revision": "mm"
   },
   {
     "remote": "cm",
