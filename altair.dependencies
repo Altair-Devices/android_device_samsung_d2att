@@ -3,19 +3,19 @@
     "remote": "altair",
     "repository": "Altair-Devices/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "revision": "mm"
+    "revision": "m"
   },
   {
     "remote": "altair",
     "repository": "Altair-Devices/android_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common",
-    "revision": "mm"
+    "revision": "m"
   },
   {
     "remote": "altair",
     "repository": "Altair-Devices/android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common",
-    "revision": "mm"
+    "revision": "m"
   },
   {
     "remote": "cm",
