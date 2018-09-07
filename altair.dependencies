@@ -1,13 +1,13 @@
 [
   {
     "remote": "altair",
-    "repository": "Altair-Devices/android_device_samsung_d2-common",
+    "repository": "AltairROM-Devices/android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common",
     "revision": "n"
   },
   {
     "remote": "altair",
-    "repository": "Altair-Devices/android_device_samsung_msm8960-common",
+    "repository": "AltairROM-Devices/android_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common",
     "revision": "n"
   },
