@@ -42,9 +42,9 @@
     "revision": "cm-14.1"
   },
   {
-    "remote": "tm",
-    "repository": "proprietary_vendor_samsung",
+    "remote": "altair",
+    "repository": "AltairROM-Devices/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "revision": "cm-14.1"
+    "revision": "n"
   }
 ]
